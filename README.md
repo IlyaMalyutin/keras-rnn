@@ -20,4 +20,7 @@ Original: "
 "
 ```
 
+# bidirectional-LSTM
+Examples and compare of bidirectional-LSTM
+by https://machinelearningmastery.com/develop-bidirectional-lstm-sequence-classification-python-keras/
 
